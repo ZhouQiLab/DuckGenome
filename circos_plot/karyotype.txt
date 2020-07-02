@@ -1,0 +1,11 @@
+chr - chrZ	Z	1	84547829	dgreen
+chr - chr1	1	1	207238429	lgrey
+chr - chr2	2	1	164862000	dgrey
+chr - chr3	3	1	120086012	lgrey
+chr - chr4	4	1	76269206	dgrey
+chr - chr5	5	1	66856311	lgrey
+chr - chr6	6	1	37939480	dgrey
+chr - chr7	7	1	39896445	lgrey
+chr - chr8	8	1	32618258	dgrey
+band    chrZ    band1   band1   1   2222000 lgreen
+band    chrZ    band2   band2   2222000   84547829 dgreen
